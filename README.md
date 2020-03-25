@@ -10,3 +10,7 @@ First Time Installation
 4. For running the application after first time installation is complete, you may type  : python gui.py
 
 Dependency: Linux environment is required.
+
+Sample Image of the working prototype:
+
+![alt text](https://raw.githubusercontent.com/shaunak27/Multilingual-Image-Captioning/master/DS-InceptionV3/Picture1.png)
